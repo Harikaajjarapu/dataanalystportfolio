@@ -3,9 +3,8 @@
 
 This repository contains an easy-to-customize personal data analyst portfolio template built with HTML, CSS, and JavaScript. It is lightweight, fully responsive, and utilizes the Bootstrap grid system along with Font Awesome for icons. The site is static and production-ready, so you can add your information and launch it quickly. Alternatively, you can easily edit styles, colors, and scripts to match your personal brand. The site is designed to be as modular as possible to make it easy to adjust styles and content.
 
-To view a live demo, [click here](https://Harikaajjarapu.github.io/dataanalystportfolio/).
+To view a live demo, [click here](https://github.com/Harikaajjarapu/dataanalystportfolio).
 
-Looking for more templates? Check out [other projects](https://github.com/Harikaajjarapu?tab=repositories).
 
 
 ## Features
