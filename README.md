@@ -1,40 +1,33 @@
 # Dataanalyst Portfolio
-🚀 **[Harika Ajjarapu's Data Analyst Portfolio](https://github.com/Harikaajjarapu/dataanalystportfolio)** 🚀
+## Harika Ajjarapu's Data Analyst Portfolio
 
-This repository contains an easy-to-customize personal data analyst portfolio template built with HTML, CSS, and JavaScript. It is lightweight, fully responsive, and utilizes the Bootstrap grid system along with Font Awesome for icons. The site is static and production-ready, so you can add your information and launch it quickly. Alternatively, you can easily edit styles, colors, and scripts to match your personal brand. The site is designed to be as modular as possible to make it easy to adjust styles and content.
+This repository contains an easy-to-customize data analyst portfolio template. It is lightweight, fully responsive, and comes with the Bootstrap grid system and Font Awesome. The site is static and production-ready if you just want to add your information and go. Alternatively, you can easily edit styles, colors, and scripts. The site was built to be as modular as possible to make it easy to shift around styles and content.
 
-To view a live demo, [click here](https://github.com/Harikaajjarapu/dataanalystportfolio).
+To view a live demo, [click here](https://Harikaajjarapu.github.io/dataanalystportfolio/).
 
+### Features
+- **Responsive Design:** Works on all devices.
+- **Customizable:** Easy to modify styles, colors, and scripts.
+- **Modular:** Shift styles and content with ease.
 
+### Sections
+- **About Me:** Introduction and background.
+- **Experience:** Work experience and job roles.
+- **Education:** Academic qualifications.
+- **Projects:** Showcase of projects with links.
+- **Skills:** List of professional skills.
+- **Contact:** Form to get in touch.
 
-## Features
+### Live Demo
+Check out the live demo [here](https://Harikaajjarapu.github.io/dataanalystportfolio/).
 
-* Gulp ready (compiles Sass and minifies JS)
-* Sass ready with lots of commenting
-* Fully responsive
-* Comes with Bootstrap grid system
-* Easy colour changes can be done through simple variable edits
+### Author
+**Harika Ajjarapu**
+- GitHub: [Harikaajjarapu](https://github.com/Harikaajjarapu)
+- LinkedIn: [Profile](https://www.linkedin.com/in/harikaajjarapu/)
 
-## Contents
+This portfolio template was originally created by Ryan Fitzgerald and has been customized to showcase the work of a data analyst. For the original repository, visit [Dev Portfolio](https://github.com/RyanFitzgerald/devportfolio).
 
-- [Setup and Configuration](#setup-and-configuration)
-    - [Making Edits / Customizing the Template](#making-edits--customizing-the-template)
-    - [Using the Template As Is](#using-the-template-as-is)
-- [Customization and Editing](#customization-and-editing)
-    - [General](#general)
-    - [Images](#images)
-    - [Header Section](#header-section)
-    - [Lead Section](#lead-section)
-    - [About Section](#about-section)
-    - [Experience Section](#experience-section)
-    - [Education Section](#education-section)
-    - [Projects Section](#projects-section)
-    - [Skills Section](#skills-section)
-    - [Contact Section](#contact-section)
-    - [Footer Section](#footer-section)
-    - [Optional Sections](#optional-sections)
-- [Changelog](#changelog)
-- [License](#license)
 
 ## Setup and Configuration
 
