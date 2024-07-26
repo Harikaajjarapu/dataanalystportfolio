@@ -1,12 +1,12 @@
-# Dev Portfolio
+# Dataanalyst Portfolio
+🚀 **[Harika Ajjarapu's Data Analyst Portfolio](https://github.com/Harikaajjarapu/dataanalystportfolio)** 🚀
 
-🚀 **[Dev Portfolio V2 has arrived. Meet Devfolio, a modern portfolio + blog template built with GatsbyJS and TailwindCSS](https://github.com/RyanFitzgerald/devfolio)** 🚀
+This repository contains an easy-to-customize personal data analyst portfolio template built with HTML, CSS, and JavaScript. It is lightweight, fully responsive, and utilizes the Bootstrap grid system along with Font Awesome for icons. The site is static and production-ready, so you can add your information and launch it quickly. Alternatively, you can easily edit styles, colors, and scripts to match your personal brand. The site is designed to be as modular as possible to make it easy to adjust styles and content.
 
-This repo contains an easy-to-customize personal dev portfolio template that was created with Sass and JavaScript. It is lightweight and fully responsive, as well as comes with the Bootstrap grid system and loaded with Font Awesome. The site is static and comes production ready if you just want to add your information and go. Alternatively, you can edit styles, colours, and scripts fairly easily. The site was built as modular as possible to make it easy to shift around styles and content.
+To view a live demo, [click here](https://Harikaajjarapu.github.io/dataanalystportfolio/).
 
-To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio/).
+Looking for more templates? Check out [other projects](https://github.com/Harikaajjarapu?tab=repositories).
 
-Looking for a blog template? Checkout [DevBlog](https://github.com/RyanFitzgerald/devblog).
 
 ## Features
 
